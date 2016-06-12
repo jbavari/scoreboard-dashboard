@@ -2949,7 +2949,7 @@
 
 
     /**
-    * It generates the neccessary styles to position the widgets.
+    * It generates the necessary styles to position the widgets.
     *
     * @method generate_stylesheet
     * @param {Number} rows Number of columns.
