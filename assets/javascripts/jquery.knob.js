@@ -50,7 +50,7 @@ $(function () {
         this.i = null; // mixed HTMLInputElement or array of HTMLInputElement
         this.g = null; // 2D graphics context for 'pre-rendering'
         this.v = null; // value ; mixed array or integer
-        this.cv = null; // change value ; not commited value
+        this.cv = null; // change value ; not committed value
         this.x = 0; // canvas x position
         this.y = 0; // canvas y position
         this.$c = null; // jQuery canvas element
